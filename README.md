@@ -7,7 +7,7 @@ An RBM can be thought of as a Markov Random Field associated with a bipartite un
 
 The graph of an RBM has connetions only between the layer of hidden and the layer of visible variables, but not between any two variables of the same layer, as shown below
 
-![img](imm/rbm_fig.png)
+![img](./imm/rbm_fig.png)
 
 ## Learning procedures implemented
 
